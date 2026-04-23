@@ -2,12 +2,10 @@ import argparse
 import sys
 from pathlib import Path
 
-from filters import apply_filters, select_detail_candidates
-from output import print_results, write_results
-from scraper import enrich_sections_with_details, scrape_sections
+from output import print_results
+from service import run_schedule_search
 from utils import (
     ConfigError,
-    build_runtime_config,
     load_config,
     warn_live_discrepancies,
 )
@@ -39,61 +37,30 @@ def main() -> int:
 
     try:
         config = load_config(Path(args.config))
-        runtime_config = build_runtime_config(config, args.subject)
     except ConfigError as exc:
         print(f"Configuration error: {exc}", file=sys.stderr)
         return 2
 
-    warn_live_discrepancies(runtime_config)
-
     try:
-        session, sections, subject_messages, warnings, term_label = scrape_sections(
-            runtime_config
+        result = run_schedule_search(
+            config,
+            output_dir=Path(args.output),
+            subject_override=args.subject,
         )
-    except RuntimeError as exc:
+    except (RuntimeError, ConfigError) as exc:
         print(str(exc), file=sys.stderr)
         return 1
 
-    candidate_sections = select_detail_candidates(
-        sections=sections,
-        allowed_modalities=runtime_config["modality"],
-        open_only=runtime_config["open_only"],
-    )
-    preliminary_matches, preliminary_tba = apply_filters(
-        sections=candidate_sections,
-        allowed_modalities=runtime_config["modality"],
-        available_times=runtime_config["available_times"],
-        open_only=runtime_config["open_only"],
-    )
-    detail_sections = dedupe_sections(preliminary_matches + preliminary_tba)
-    enrich_sections_with_details(session, detail_sections)
-
-    matched_sections, flagged_tba_sections = apply_filters(
-        sections=detail_sections,
-        allowed_modalities=runtime_config["modality"],
-        available_times=runtime_config["available_times"],
-        open_only=runtime_config["open_only"],
-    )
-
-    output_dir = Path(args.output)
-    output_dir.mkdir(parents=True, exist_ok=True)
-    write_results(matched_sections, flagged_tba_sections, warnings, output_dir)
+    warn_live_discrepancies(result["runtime_config"])
     print_results(
-        matched_sections=matched_sections,
-        flagged_tba_sections=flagged_tba_sections,
-        subject_messages=subject_messages,
-        warnings=warnings,
-        requested_subjects=runtime_config["course_codes"],
-        term_label=term_label,
+        matched_sections=result["matched_sections"],
+        flagged_tba_sections=result["flagged_tba_sections"],
+        subject_messages=result["subject_messages"],
+        warnings=result["warnings"],
+        requested_subjects=result["runtime_config"]["course_codes"],
+        term_label=result["term_label"],
     )
     return 0
-
-
-def dedupe_sections(sections: list[dict]) -> list[dict]:
-    deduped: dict[str, dict] = {}
-    for section in sections:
-        deduped[section["class_number"]] = section
-    return list(deduped.values())
 
 
 if __name__ == "__main__":

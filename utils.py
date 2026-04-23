@@ -251,16 +251,23 @@ def requested_term_matches(option_text: str, requested_term: str) -> bool:
 
 
 def warn_live_discrepancies(runtime_config: dict[str, Any]) -> None:
+    for note in get_live_discrepancy_notes(runtime_config):
+        print(note, file=sys.stderr)
+
+
+def get_live_discrepancy_notes(runtime_config: dict[str, Any]) -> list[str]:
+    notes: list[str] = []
+
     if runtime_config["input_institution"].strip().upper() == "HUN01":
-        print(
+        notes.append(
             "Note: the PRD uses Hunter institution code HUN01, but the live CUNY site currently uses HTR01. "
-            "This tool is using HTR01.",
-            file=sys.stderr,
+            "This tool is using HTR01."
         )
 
     if "CSCI" in runtime_config["course_codes"]:
-        print(
+        notes.append(
             "Note: the PRD example uses CSCI, but the live Hunter search dropdown uses CMSC for the search step. "
-            "This tool will automatically search CMSC and still report the returned CSCI course codes.",
-            file=sys.stderr,
+            "This tool will automatically search CMSC and still report the returned CSCI course codes."
         )
+
+    return notes

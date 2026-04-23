@@ -1,6 +1,18 @@
 # Hunter Schedule Finder
 
-Python CLI for scraping CUNY Global Search, filtering Hunter College sections by subject, modality, and schedule availability, then exporting matching sections to JSON and CSV.
+Python app for scraping CUNY Global Search, filtering Hunter College sections by subject, modality, and schedule availability, then exporting matching sections to JSON and CSV.
+
+## Browser UI
+
+If you want to use the project without working in the terminal:
+
+```bash
+python app.py
+```
+
+Then open `http://127.0.0.1:5000` in your browser.
+
+On Windows, you can also double-click [start_ui.bat](C:\Users\xzxzi\Pictures\Screenshots\Cuny data scraper\start_ui.bat) to launch the local UI.
 
 ## Usage
 
@@ -24,3 +36,4 @@ python main.py --output ./my_results
 - `results.csv`: flat export with one row per exported section, including `result_category`, `time_filter_status`, and any section warnings
 - `warnings.log`: parser or scrape warnings encountered during the run
 - Terminal output: grouped by subject, plus a separate `TBA / Needs Review` block for sections with unresolved meeting times
+- Browser UI: live form, on-page results, and download links for JSON, CSV, and warning logs
