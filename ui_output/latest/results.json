@@ -1,0 +1,3614 @@
+[
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12100",
+    "course_title": "Computers & Money:Quant",
+    "section": "01-LEC Regular",
+    "class_number": "5714",
+    "days_time": "MoWe 1:00PM - 2:15PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Computers & Money:Quant",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTcxNA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 1:00PM-2:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 1:00PM-2:15PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12100",
+    "course_title": "Computers & Money:Quant",
+    "section": "03-LEC Regular",
+    "class_number": "5713",
+    "days_time": "MoWe 2:30PM - 3:45PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Computers & Money:Quant",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTcxMw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 2:30PM-3:45PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "2:30PM - 3:45PM",
+        "start_minutes": 870,
+        "end_minutes": 945,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 2:30PM-3:45PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12700",
+    "course_title": "Introduction: Computer Science",
+    "section": "1R01-REC Regular",
+    "class_number": "6909",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Introduction: Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjkwOQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12700",
+    "course_title": "Introduction: Computer Science",
+    "section": "CN1R-REC Regular",
+    "class_number": "6015",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Introduction: Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAxNQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12700",
+    "course_title": "Introduction: Computer Science",
+    "section": "ECI1-LEC Regular",
+    "class_number": "4336",
+    "days_time": "MoWe 10:00AM - 11:15AM",
+    "room": "North Bldg 1001E",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Introduction: Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NDMzNg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 2:30PM-3:45PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "2:30PM - 3:45PM",
+        "start_minutes": 870,
+        "end_minutes": 945,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 2:30PM-3:45PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12700",
+    "course_title": "Introduction: Computer Science",
+    "section": "ECIR-REC Regular",
+    "class_number": "4334",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Introduction: Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NDMzNA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 12700",
+    "course_title": "Introduction: Computer Science",
+    "section": "X01R-REC Regular",
+    "class_number": "6895",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Introduction: Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=Njg5NQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 13500",
+    "course_title": "Software Analysis and Design 1",
+    "section": "01-LEC Regular",
+    "class_number": "6013",
+    "days_time": "MoWe 1:00PM - 2:15PM",
+    "room": "North Bldg 118",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Software Analysis and Design 1",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAxMw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 1:00PM-2:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 1:00PM-2:15PM",
+        "room": "North Bldg 118",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 13500",
+    "course_title": "Software Analysis and Design 1",
+    "section": "XCS1-LEC Regular",
+    "class_number": "6011",
+    "days_time": "MoWe 1:00PM - 2:15PM",
+    "room": "North Bldg 118",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Software Analysis and Design 1",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAxMQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 1:00PM-2:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 1:00PM-2:15PM",
+        "room": "North Bldg 118",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 15000",
+    "course_title": "Discrete Structures",
+    "section": "01-LEC Regular",
+    "class_number": "6010",
+    "days_time": "MoWe 11:30AM - 12:45PM",
+    "room": "North Bldg 118",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Discrete Structures",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAxMA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 11:30AM-12:45PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "11:30AM - 12:45PM",
+        "start_minutes": 690,
+        "end_minutes": 765,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 11:30AM-12:45PM",
+        "room": "North Bldg 118",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 15000",
+    "course_title": "Discrete Structures",
+    "section": "1R02-REC Regular",
+    "class_number": "5608",
+    "days_time": "Mo 3:00PM - 3:50PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Discrete Structures",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTYwOA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Mo 3:00PM-3:50PM",
+        "days": [
+          "Monday"
+        ],
+        "days_raw": "Mo",
+        "time": "3:00PM - 3:50PM",
+        "start_minutes": 900,
+        "end_minutes": 950,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Mo 3:00PM-3:50PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 15000",
+    "course_title": "Discrete Structures",
+    "section": "1R03-REC Regular",
+    "class_number": "5606",
+    "days_time": "Mo 4:00PM - 4:50PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Discrete Structures",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTYwNg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Mo 4:00PM-4:50PM",
+        "days": [
+          "Monday"
+        ],
+        "days_raw": "Mo",
+        "time": "4:00PM - 4:50PM",
+        "start_minutes": 960,
+        "end_minutes": 1010,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Mo 4:00PM-4:50PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 15000",
+    "course_title": "Discrete Structures",
+    "section": "1R05-REC Regular",
+    "class_number": "5597",
+    "days_time": "We 3:00PM - 3:50PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Discrete Structures",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTU5Nw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "We 3:00PM-3:50PM",
+        "days": [
+          "Wednesday"
+        ],
+        "days_raw": "We",
+        "time": "3:00PM - 3:50PM",
+        "start_minutes": 900,
+        "end_minutes": 950,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "We 3:00PM-3:50PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 15000",
+    "course_title": "Discrete Structures",
+    "section": "1R06-REC Regular",
+    "class_number": "5596",
+    "days_time": "We 4:00PM - 4:50PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Discrete Structures",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTU5Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "We 4:00PM-4:50PM",
+        "days": [
+          "Wednesday"
+        ],
+        "days_raw": "We",
+        "time": "4:00PM - 4:50PM",
+        "start_minutes": 960,
+        "end_minutes": 1010,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Recitation",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "We 4:00PM-4:50PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 16000",
+    "course_title": "Computer Architecture 1",
+    "section": "01-LEC Regular",
+    "class_number": "6008",
+    "days_time": "TuTh 1:00PM - 2:15PM",
+    "room": "West Bldg W615",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Computer Architecture 1",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAwOA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 1:00PM-2:15PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 1:00PM-2:15PM",
+        "room": "West Bldg W615",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18100",
+    "course_title": "Independent Workshop",
+    "section": "01-INT Regular",
+    "class_number": "8598",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18100",
+    "course_title": "Independent Workshop",
+    "section": "02-INT Regular",
+    "class_number": "8597",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5Nw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18100",
+    "course_title": "Independent Workshop",
+    "section": "03-INT Regular",
+    "class_number": "8596",
+    "days_time": "TBA",
+    "room": "Online-Asynchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Asynchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-asynchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "Online-Asynchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18200",
+    "course_title": "Independent Workshop",
+    "section": "01-INT Regular",
+    "class_number": "8595",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5NQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 2.0,
+    "units_text": "2 units",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18200",
+    "course_title": "Independent Workshop",
+    "section": "02-INT Regular",
+    "class_number": "8594",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 2.0,
+    "units_text": "2 units",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18200",
+    "course_title": "Independent Workshop",
+    "section": "03-INT Regular",
+    "class_number": "8593",
+    "days_time": "TBA",
+    "room": "Online-Asynchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Asynchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-asynchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 2.0,
+    "units_text": "2 units",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "Online-Asynchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18300",
+    "course_title": "Independent Workshop",
+    "section": "01-INT Regular",
+    "class_number": "8592",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5Mg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 18300",
+    "course_title": "Independent Workshop",
+    "section": "02-INT Regular",
+    "class_number": "8591",
+    "days_time": "TBA",
+    "room": "Online-Asynchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Asynchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Workshop",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU5MQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-asynchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Internship",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "Online-Asynchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 23200",
+    "course_title": "Rel Databases & SQL Programg",
+    "section": "01-LEC Regular",
+    "class_number": "5584",
+    "days_time": "MoWe 10:00AM - 11:15AM",
+    "room": "North Bldg 1001B",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Rel Databases & SQL Programg",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTU4NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 10:00AM-11:15AM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "10:00AM - 11:15AM",
+        "start_minutes": 600,
+        "end_minutes": 675,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 10:00AM-11:15AM",
+        "room": "North Bldg 1001B",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 26500",
+    "course_title": "Computer Theory 1",
+    "section": "01-LEC Regular",
+    "class_number": "6001",
+    "days_time": "TuTh 5:30PM - 6:45PM",
+    "room": "West Bldg W714",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Computer Theory 1",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAwMQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 5:30PM-6:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 5:30PM-6:45PM",
+        "room": "West Bldg W714",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 33500",
+    "course_title": "Software Analysis and Design 3",
+    "section": "01-LEC Regular",
+    "class_number": "6000",
+    "days_time": "TuTh 2:30PM - 3:45PM",
+    "room": "West Bldg W714",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Software Analysis and Design 3",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NjAwMA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 2:30PM-3:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "2:30PM - 3:45PM",
+        "start_minutes": 870,
+        "end_minutes": 945,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 2:30PM-3:45PM",
+        "room": "West Bldg W714",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 34000",
+    "course_title": "Operating Systems",
+    "section": "01-LEC Regular",
+    "class_number": "5998",
+    "days_time": "MoWe 4:00PM - 5:15PM",
+    "room": "West Bldg W615",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Operating Systems",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTk5OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 4:00PM-5:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "4:00PM - 5:15PM",
+        "start_minutes": 960,
+        "end_minutes": 1035,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 4:00PM-5:15PM",
+        "room": "West Bldg W615",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 35000",
+    "course_title": "Artificial Intelligence",
+    "section": "01-LEC Regular",
+    "class_number": "5580",
+    "days_time": "MoWe 10:00AM - 11:15AM",
+    "room": "North Bldg 1001F",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Artificial Intelligence",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTU4MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 10:00AM-11:15AM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "10:00AM - 11:15AM",
+        "start_minutes": 600,
+        "end_minutes": 675,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 10:00AM-11:15AM",
+        "room": "North Bldg 1001F",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39100",
+    "course_title": "Indep Study Computer Science",
+    "section": "01-IND Regular",
+    "class_number": "8586",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39100",
+    "course_title": "Indep Study Computer Science",
+    "section": "02-IND Regular",
+    "class_number": "8585",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4NQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39200",
+    "course_title": "Indep Study Computer Science",
+    "section": "01-IND Regular",
+    "class_number": "8584",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 2.0,
+    "units_text": "2 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39300",
+    "course_title": "Indep Study Computer Science",
+    "section": "01-IND Regular",
+    "class_number": "8583",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39300",
+    "course_title": "Indep Study Computer Science",
+    "section": "02-IND Regular",
+    "class_number": "8582",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4Mg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39300",
+    "course_title": "Indep Study Computer Science",
+    "section": "03-IND Regular",
+    "class_number": "8581",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4MQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39300",
+    "course_title": "Indep Study Computer Science",
+    "section": "04-IND Regular",
+    "class_number": "8580",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU4MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39300",
+    "course_title": "Indep Study Computer Science",
+    "section": "05-IND Regular",
+    "class_number": "8579",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Indep Study Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3OQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39530",
+    "course_title": "Database Design",
+    "section": "01-LEC Regular",
+    "class_number": "5480",
+    "days_time": "MoWe 11:30AM - 12:45PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Database Design",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ4MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 11:30AM-12:45PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "11:30AM - 12:45PM",
+        "start_minutes": 690,
+        "end_minutes": 765,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 11:30AM-12:45PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39531",
+    "course_title": "Automation Engineering",
+    "section": "01-LEC Regular",
+    "class_number": "5478",
+    "days_time": "MoWe 4:00PM - 5:15PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Automation Engineering",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ3OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 4:00PM-5:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "4:00PM - 5:15PM",
+        "start_minutes": 960,
+        "end_minutes": 1035,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 4:00PM-5:15PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39532",
+    "course_title": "AI Agents",
+    "section": "01-LEC Regular",
+    "class_number": "5479",
+    "days_time": "Th 1:00PM - 2:15PM Tu 1:00PM - 2:15PM",
+    "room": "Online-Synchronous North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "Hybrid Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026 08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "AI Agents",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ3OQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "hybrid-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Tu 1:00PM-2:15PM",
+        "days": [
+          "Tuesday"
+        ],
+        "days_raw": "Tu",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      },
+      {
+        "raw": "Th 1:00PM-2:15PM",
+        "days": [
+          "Thursday"
+        ],
+        "days_raw": "Th",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Tu 1:00PM-2:15PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      },
+      {
+        "days_time": "Th 1:00PM-2:15PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39533",
+    "course_title": "Flutter App Dev w Intr ML & AI",
+    "section": "01-LEC Regular",
+    "class_number": "5476",
+    "days_time": "TuTh 2:30PM - 3:45PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Flutter App Dev w Intr ML & AI",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ3Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 2:30PM-3:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "2:30PM - 3:45PM",
+        "start_minutes": 870,
+        "end_minutes": 945,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 2:30PM-3:45PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39541",
+    "course_title": "Basics of Game Engines",
+    "section": "01-LEC Regular",
+    "class_number": "5474",
+    "days_time": "TuTh 4:00PM - 5:15PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Basics of Game Engines",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ3NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 4:00PM-5:15PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "4:00PM - 5:15PM",
+        "start_minutes": 960,
+        "end_minutes": 1035,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 4:00PM-5:15PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39542",
+    "course_title": "Intro to Data Science",
+    "section": "02-LEC Regular",
+    "class_number": "5473",
+    "days_time": "TuTh 5:30PM - 6:45PM",
+    "room": "North Bldg 1001F",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Intro to Data Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQ3Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 5:30PM-6:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 5:30PM-6:45PM",
+        "room": "North Bldg 1001F",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 39548",
+    "course_title": "Practical Web Development",
+    "section": "04-LEC Regular",
+    "class_number": "4193",
+    "days_time": "TuTh 5:30PM - 6:45PM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Practical Web Development",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NDE5Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 5:30PM-6:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 5:30PM-6:45PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 41500",
+    "course_title": "Data Communications & Networks",
+    "section": "01-LEC Regular",
+    "class_number": "8578",
+    "days_time": "Th 5:30PM - 6:45PM Tu 5:30PM - 6:45PM",
+    "room": "Online-Synchronous West Bldg W408",
+    "instructor": "Saptarshi Debroy",
+    "modality_raw": "Hybrid Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026 08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Data Communications & Networks",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "hybrid-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Tu 5:30PM-6:45PM",
+        "days": [
+          "Tuesday"
+        ],
+        "days_raw": "Tu",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      },
+      {
+        "raw": "Th 5:30PM-6:45PM",
+        "days": [
+          "Thursday"
+        ],
+        "days_raw": "Th",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Tu 5:30PM-6:45PM",
+        "room": "West Bldg W408",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      },
+      {
+        "days_time": "Th 5:30PM-6:45PM",
+        "room": "Online-Synchronous",
+        "instructor": "Saptarshi Debroy",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49311",
+    "course_title": "Undergrad Research Training",
+    "section": "01-LEC Regular",
+    "class_number": "5325",
+    "days_time": "MoWe 1:00PM - 2:15PM",
+    "room": "North Bldg 1000J",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Undergrad Research Training",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTMyNQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 1:00PM-2:15PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "1:00PM - 2:15PM",
+        "start_minutes": 780,
+        "end_minutes": 855,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 1:00PM-2:15PM",
+        "room": "North Bldg 1000J",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49375",
+    "course_title": "Network Security",
+    "section": "01-LEC Regular",
+    "class_number": "51934",
+    "days_time": "TuTh 4:00PM - 5:15PM",
+    "room": "West Bldg W408",
+    "instructor": "Stanley Wine",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Network Security",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTE5MzQ=&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 4:00PM-5:15PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "4:00PM - 5:15PM",
+        "start_minutes": 960,
+        "end_minutes": 1035,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 4:00PM-5:15PM",
+        "room": "West Bldg W408",
+        "instructor": "Stanley Wine",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49391",
+    "course_title": "Fundatns of Game Theory for CS",
+    "section": "01-LEC Regular",
+    "class_number": "5417",
+    "days_time": "TuTh 2:30PM - 3:45PM",
+    "room": "North Bldg 1001D",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Fundatns of Game Theory for CS",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQxNw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 2:30PM-3:45PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "2:30PM - 3:45PM",
+        "start_minutes": 870,
+        "end_minutes": 945,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 2:30PM-3:45PM",
+        "room": "North Bldg 1001D",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49393",
+    "course_title": "Ethics in AI",
+    "section": "01-LEC Regular",
+    "class_number": "5416",
+    "days_time": "MoWe 11:30AM - 12:45PM",
+    "room": "North Bldg 1001C",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Ethics in AI",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTQxNg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 11:30AM-12:45PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "11:30AM - 12:45PM",
+        "start_minutes": 690,
+        "end_minutes": 765,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 11:30AM-12:45PM",
+        "room": "North Bldg 1001C",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49600",
+    "course_title": "Supervised Research",
+    "section": "01-RSC Regular",
+    "class_number": "8575",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3NQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49600",
+    "course_title": "Supervised Research",
+    "section": "02-RSC Regular",
+    "class_number": "8574",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 1.0,
+    "units_text": "1 unit",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49700",
+    "course_title": "Supervised Research",
+    "section": "01-RSC Regular",
+    "class_number": "8573",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 2.0,
+    "units_text": "2 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "01-RSC Regular",
+    "class_number": "8572",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3Mg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "02-RSC Regular",
+    "class_number": "8571",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3MQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "03-RSC Regular",
+    "class_number": "8570",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU3MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "04-RSC Regular",
+    "class_number": "8569",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2OQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "05-RSC Regular",
+    "class_number": "8568",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49800",
+    "course_title": "Supervised Research",
+    "section": "06-RSC Regular",
+    "class_number": "8567",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Supervised Research",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2Nw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Research",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49900",
+    "course_title": "Advnc Apl:Cpstne Maj",
+    "section": "01-LEC Regular",
+    "class_number": "8566",
+    "days_time": "TuTh 5:30PM - 7:20PM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Advnc Apl:Cpstne Maj",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TuTh 5:30PM-7:20PM",
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "days_raw": "TuTh",
+        "time": "5:30PM - 7:20PM",
+        "start_minutes": 1050,
+        "end_minutes": 1160,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TuTh 5:30PM-7:20PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49900",
+    "course_title": "Advnc Apl:Cpstne Maj",
+    "section": "03-LEC Regular",
+    "class_number": "8564",
+    "days_time": "MoWe 10:00AM - 11:50AM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Advnc Apl:Cpstne Maj",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 10:00AM-11:50AM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "10:00AM - 11:50AM",
+        "start_minutes": 600,
+        "end_minutes": 710,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 10:00AM-11:50AM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49900",
+    "course_title": "Advnc Apl:Cpstne Maj",
+    "section": "04-LEC Regular",
+    "class_number": "8563",
+    "days_time": "MoWe 12:00PM - 1:50PM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Advnc Apl:Cpstne Maj",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 12:00PM-1:50PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "12:00PM - 1:50PM",
+        "start_minutes": 720,
+        "end_minutes": 830,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 12:00PM-1:50PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "UGRD",
+    "course": "CSCI 49900",
+    "course_title": "Advnc Apl:Cpstne Maj",
+    "section": "05-LEC Regular",
+    "class_number": "8562",
+    "days_time": "MoWe 2:00PM - 3:50PM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Advnc Apl:Cpstne Maj",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2Mg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "MoWe 2:00PM-3:50PM",
+        "days": [
+          "Monday",
+          "Wednesday"
+        ],
+        "days_raw": "MoWe",
+        "time": "2:00PM - 3:50PM",
+        "start_minutes": 840,
+        "end_minutes": 950,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 4.0,
+    "units_text": "4 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Undergraduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "MoWe 2:00PM-3:50PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 77300",
+    "course_title": "Data Comm & Networks",
+    "section": "01-LEC Regular",
+    "class_number": "51936",
+    "days_time": "Th 5:30PM - 6:45PM Tu 5:30PM - 6:45PM",
+    "room": "Online-Synchronous West Bldg W408",
+    "instructor": "Saptarshi Debroy",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026 08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Data Comm & Networks",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NTE5MzY=&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Tu 5:30PM-6:45PM",
+        "days": [
+          "Tuesday"
+        ],
+        "days_raw": "Tu",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      },
+      {
+        "raw": "Th 5:30PM-6:45PM",
+        "days": [
+          "Thursday"
+        ],
+        "days_raw": "Th",
+        "time": "5:30PM - 6:45PM",
+        "start_minutes": 1050,
+        "end_minutes": 1125,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Tu 5:30PM-6:45PM",
+        "room": "West Bldg W408",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      },
+      {
+        "days_time": "Th 5:30PM-6:45PM",
+        "room": "Online-Synchronous",
+        "instructor": "Saptarshi Debroy",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 77800",
+    "course_title": "Ethics and Computer Science",
+    "section": "02-LEC Regular",
+    "class_number": "8680",
+    "days_time": "Th 5:00PM - 6:15PM",
+    "room": "Online-Synchronous",
+    "instructor": "TBA",
+    "modality_raw": "Online Synchronous",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Ethics and Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODY4MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "online-synchronous",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Th 5:00PM-6:15PM",
+        "days": [
+          "Thursday"
+        ],
+        "days_raw": "Th",
+        "time": "5:00PM - 6:15PM",
+        "start_minutes": 1020,
+        "end_minutes": 1095,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Th 5:00PM-6:15PM",
+        "room": "Online-Synchronous",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79300",
+    "course_title": "Independent Study Comp Science",
+    "section": "01-IND Regular",
+    "class_number": "8560",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Study Comp Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU2MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79300",
+    "course_title": "Independent Study Comp Science",
+    "section": "02-IND Regular",
+    "class_number": "8559",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Study Comp Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1OQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79300",
+    "course_title": "Independent Study Comp Science",
+    "section": "03-IND Regular",
+    "class_number": "8558",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Study Comp Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79300",
+    "course_title": "Independent Study Comp Science",
+    "section": "04-IND Regular",
+    "class_number": "8557",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Independent Study Comp Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1Nw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Independent Study",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79502",
+    "course_title": "Sem:Machine Learning",
+    "section": "01-LEC Regular",
+    "class_number": "44078",
+    "days_time": "Tu 5:30PM - 8:00PM",
+    "room": "North Bldg 1001E",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Sem:Machine Learning",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=NDQwNzg=&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "Tu 5:30PM-8:00PM",
+        "days": [
+          "Tuesday"
+        ],
+        "days_raw": "Tu",
+        "time": "5:30PM - 8:00PM",
+        "start_minutes": 1050,
+        "end_minutes": 1200,
+        "is_tba": false
+      }
+    ],
+    "time_filter_status": "match",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "Tu 5:30PM-8:00PM",
+        "room": "North Bldg 1001E",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "matched"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79800",
+    "course_title": "Project in Computer Science",
+    "section": "01-LEC Regular",
+    "class_number": "8554",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Project in Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1NA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79800",
+    "course_title": "Project in Computer Science",
+    "section": "02-LEC Regular",
+    "class_number": "8553",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Project in Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1Mw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79800",
+    "course_title": "Project in Computer Science",
+    "section": "03-LEC Regular",
+    "class_number": "8552",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Project in Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1Mg==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79800",
+    "course_title": "Project in Computer Science",
+    "section": "04-LEC Regular",
+    "class_number": "8551",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Project in Computer Science",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1MQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79900",
+    "course_title": "Thesis Research Computer Sci",
+    "section": "01-LEC Regular",
+    "class_number": "8550",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Thesis Research Computer Sci",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU1MA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79900",
+    "course_title": "Thesis Research Computer Sci",
+    "section": "02-LEC Regular",
+    "class_number": "8549",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Thesis Research Computer Sci",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU0OQ==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79900",
+    "course_title": "Thesis Research Computer Sci",
+    "section": "03-LEC Regular",
+    "class_number": "8548",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Thesis Research Computer Sci",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU0OA==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79900",
+    "course_title": "Thesis Research Computer Sci",
+    "section": "04-LEC Regular",
+    "class_number": "8547",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Thesis Research Computer Sci",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU0Nw==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  },
+  {
+    "requested_subject": "CSCI",
+    "search_subject": "CMSC",
+    "career_search_code": "GRAD",
+    "course": "CSCI 79900",
+    "course_title": "Thesis Research Computer Sci",
+    "section": "05-LEC Regular",
+    "class_number": "8546",
+    "days_time": "TBA",
+    "room": "TBA",
+    "instructor": "TBA",
+    "modality_raw": "In Person",
+    "meeting_dates": "08/28/2026 - 12/21/2026",
+    "status": "Open",
+    "course_topic": "Thesis Research Computer Sci",
+    "detail_url": "https://globalsearch.cuny.edu/CFGlobalSearchTool/CFSearchToolController?class_number_searched=ODU0Ng==&session_searched=MQ==&term_searched=MTI2OQ==&inst_searched=SHVudGVyIENvbGxlZ2U=",
+    "modality": "in-person",
+    "parsed_meeting_patterns": [
+      {
+        "raw": "TBA",
+        "days": [],
+        "days_raw": "TBA",
+        "time": "TBA",
+        "start_minutes": null,
+        "end_minutes": null,
+        "is_tba": true
+      }
+    ],
+    "time_filter_status": "tba",
+    "credits": 3.0,
+    "units_text": "3 units",
+    "class_component": "Lecture",
+    "session": "Regular Academic Session",
+    "career": "Graduate",
+    "detail_status": "Open",
+    "meeting_patterns": [
+      {
+        "days_time": "TBA",
+        "room": "TBA",
+        "instructor": "TBA",
+        "meeting_dates": "08/28/2026-12/21/2026"
+      }
+    ],
+    "result_category": "tba_review"
+  }
+]
